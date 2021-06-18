@@ -1,0 +1,18 @@
+oxford_advance.dat 牛津词典  词条数量：43156 13.4M 
+huge_ec.dat 超大英汉词库  词条数量：883366 49.0M 
+huge_ce.dat 超大汉英词库  词条数量：27356 54.1M 
+webster.dat 韦氏词典  词条数量：89686 13.5M 
+ee_3.dat 英英释义  词条数量：230172 20.8M 
+hanying.dat 新汉英大辞典  词条数量：145006 18.1M 
+phrase_3.dat词组短语  词条数量：27356 2.2M 
+syno_3.dat 同近义词  词条数量：118215 5.0M
+
+special_economy.dat 经济学  词条数量：222482 11.2M 
+special_medicine.dat 医药科学  词条数量：151429 11.3M 
+special_elec_commu_auto_control.dat 电子、通信与自动控制技术  词条数量：134903 8.3M 
+special_mechanical.dat 机械工程  词条数量：129227 6.9M
+special_energy.dat 能源科学技术  词条数量：131627 6.4M 
+special_biology.dat 生物学  词条数量：161248 5.7M 
+special_traffic.dat 交通运输工程  词条数量：132753 5.3M 
+special_computer.dat 计算机科学技术  词条数量：197130 11.8M 
+special_other.dat其他学科  词条数量：711880 46.2M
